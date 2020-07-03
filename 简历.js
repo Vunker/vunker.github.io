@@ -6,7 +6,7 @@ lib.ssMetadata = [
 		{name:"简历_atlas_", frames: [[0,0,750,1334],[752,0,750,1334]]},
 		{name:"简历_atlas_2", frames: [[0,905,1148,809],[0,0,1076,903]]},
 		{name:"简历_atlas_3", frames: [[0,0,1401,628],[1122,630,743,888],[0,630,1120,748]]},
-		{name:"简历_atlas_4", frames: [[1402,1465,262,227],[1177,1271,35,31],[715,1271,368,453],[0,0,843,727],[845,0,1008,381],[0,2038,703,10],[845,383,964,398],[0,1617,713,356],[1991,0,27,250],[1162,1713,243,211],[1874,1435,72,245],[520,1271,87,241],[1615,1839,206,200],[1811,383,206,200],[1823,1839,206,200],[1666,1637,206,200],[1666,1435,206,200],[715,1726,445,218],[1214,783,443,680],[0,1975,366,61],[1085,1271,90,88],[1855,0,134,327],[1811,585,178,56],[1407,1694,206,200],[520,783,692,486],[1659,783,387,650],[715,1946,703,10],[715,1958,370,6],[1085,1465,315,246],[0,729,518,886]]}
+		{name:"简历_atlas_4", frames: [[1402,1465,262,227],[1162,1713,243,211],[520,783,692,486],[1659,783,387,650],[0,2038,703,10],[715,1958,370,6],[1085,1465,315,246],[1177,1271,35,31],[715,1271,368,453],[0,0,843,727],[845,0,1008,381],[715,1946,703,10],[845,383,964,398],[0,1617,713,356],[1991,0,27,250],[1874,1435,72,245],[520,1271,87,241],[1615,1839,206,200],[1666,1435,206,200],[1811,383,206,200],[1823,1839,206,200],[1666,1637,206,200],[715,1726,445,218],[1214,783,443,680],[0,1975,366,61],[1085,1271,90,88],[1855,0,134,327],[1811,585,178,56],[1407,1694,206,200],[0,729,518,886]]}
 ];
 
 
@@ -14,231 +14,231 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedTexturedBitmap_1 = function() {
+(lib.CachedTexturedBitmap_479 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_10 = function() {
+(lib.CachedTexturedBitmap_480 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_11 = function() {
+(lib.CachedTexturedBitmap_481 = function() {
+	this.initialize(ss["简历_atlas_2"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_482 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_12 = function() {
+(lib.CachedTexturedBitmap_483 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_13 = function() {
+(lib.CachedTexturedBitmap_484 = function() {
+	this.initialize(ss["简历_atlas_2"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_485 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_14 = function() {
+(lib.CachedTexturedBitmap_486 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_15 = function() {
+(lib.CachedTexturedBitmap_487 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_16 = function() {
+(lib.CachedTexturedBitmap_488 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_17 = function() {
-	this.initialize(ss["简历_atlas_3"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_18 = function() {
-	this.initialize(ss["简历_atlas_3"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_19 = function() {
+(lib.CachedTexturedBitmap_489 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_2 = function() {
+(lib.CachedTexturedBitmap_490 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_20 = function() {
+(lib.CachedTexturedBitmap_491 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_21 = function() {
+(lib.CachedTexturedBitmap_492 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_22 = function() {
+(lib.CachedTexturedBitmap_493 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_23 = function() {
+(lib.CachedTexturedBitmap_494 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_24 = function() {
+(lib.CachedTexturedBitmap_495 = function() {
+	this.initialize(ss["简历_atlas_3"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_496 = function() {
+	this.initialize(ss["简历_atlas_3"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_497 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_25 = function() {
+(lib.CachedTexturedBitmap_498 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_26 = function() {
+(lib.CachedTexturedBitmap_499 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_27 = function() {
+(lib.CachedTexturedBitmap_500 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_28 = function() {
+(lib.CachedTexturedBitmap_501 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_29 = function() {
+(lib.CachedTexturedBitmap_502 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_3 = function() {
-	this.initialize(ss["简历_atlas_2"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_30 = function() {
+(lib.CachedTexturedBitmap_503 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_31 = function() {
+(lib.CachedTexturedBitmap_504 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_32 = function() {
+(lib.CachedTexturedBitmap_505 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_33 = function() {
+(lib.CachedTexturedBitmap_506 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_4 = function() {
+(lib.CachedTexturedBitmap_507 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_5 = function() {
+(lib.CachedTexturedBitmap_508 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_6 = function() {
-	this.initialize(ss["简历_atlas_2"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_7 = function() {
+(lib.CachedTexturedBitmap_509 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_8 = function() {
+(lib.CachedTexturedBitmap_510 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_9 = function() {
+(lib.CachedTexturedBitmap_511 = function() {
 	this.initialize(ss["简历_atlas_4"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
@@ -300,7 +300,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.text.parent = this;
 	this.text.setTransform(189.5,17);
 
-	this.instance = new lib.CachedTexturedBitmap_17();
+	this.instance = new lib.CachedTexturedBitmap_495();
 	this.instance.parent = this;
 	this.instance.setTransform(-3,-3,0.5,0.5);
 
@@ -313,7 +313,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_26();
+	this.instance = new lib.CachedTexturedBitmap_504();
 	this.instance.parent = this;
 	this.instance.setTransform(-51.6,-50,0.5,0.5);
 
@@ -327,7 +327,7 @@ p.nominalBounds = new cjs.Rectangle(-51.6,-50,103,100);
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_25();
+	this.instance = new lib.CachedTexturedBitmap_503();
 	this.instance.parent = this;
 	this.instance.setTransform(-240,-201.95,0.5,0.5);
 
@@ -341,7 +341,7 @@ p.nominalBounds = new cjs.Rectangle(-240,-201.9,103,100);
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_24();
+	this.instance = new lib.CachedTexturedBitmap_502();
 	this.instance.parent = this;
 	this.instance.setTransform(-51.6,-50,0.5,0.5);
 
@@ -355,7 +355,7 @@ p.nominalBounds = new cjs.Rectangle(-51.6,-50,103,100);
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_23();
+	this.instance = new lib.CachedTexturedBitmap_501();
 	this.instance.parent = this;
 	this.instance.setTransform(-51.6,-50,0.5,0.5);
 
@@ -369,7 +369,7 @@ p.nominalBounds = new cjs.Rectangle(-51.6,-50,103,100);
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_22();
+	this.instance = new lib.CachedTexturedBitmap_500();
 	this.instance.parent = this;
 	this.instance.setTransform(-51.6,-50,0.5,0.5);
 
@@ -383,7 +383,7 @@ p.nominalBounds = new cjs.Rectangle(-51.6,-50,103,100);
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_21();
+	this.instance = new lib.CachedTexturedBitmap_499();
 	this.instance.parent = this;
 	this.instance.setTransform(-21.75,-60.25,0.5,0.5);
 
@@ -411,7 +411,7 @@ p.nominalBounds = new cjs.Rectangle(-21.7,-60.2,43.5,120.5);
 	this.text_1.parent = this;
 	this.text_1.setTransform(215.65,39.65,1,1,-16.6932);
 
-	this.instance = new lib.CachedTexturedBitmap_16();
+	this.instance = new lib.CachedTexturedBitmap_494();
 	this.instance.parent = this;
 	this.instance.setTransform(-2.95,-2.95,0.5,0.5);
 
@@ -438,7 +438,7 @@ p.nominalBounds = new cjs.Rectangle(-21.7,-60.2,43.5,120.5);
 	this.text_1.parent = this;
 	this.text_1.setTransform(105.3,-86.55);
 
-	this.instance = new lib.CachedTexturedBitmap_15();
+	this.instance = new lib.CachedTexturedBitmap_493();
 	this.instance.parent = this;
 	this.instance.setTransform(-13.8,-215.45,0.5,0.5);
 
@@ -470,7 +470,7 @@ p.nominalBounds = new cjs.Rectangle(-21.7,-60.2,43.5,120.5);
 	this.text.parent = this;
 	this.text.setTransform(18.75,-190.15);
 
-	this.instance = new lib.CachedTexturedBitmap_14();
+	this.instance = new lib.CachedTexturedBitmap_492();
 	this.instance.parent = this;
 	this.instance.setTransform(-146.35,-104.7,0.5,0.5);
 
@@ -499,7 +499,7 @@ p.nominalBounds = new cjs.Rectangle(-21.7,-60.2,43.5,120.5);
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_33();
+	this.instance = new lib.CachedTexturedBitmap_511();
 	this.instance.parent = this;
 	this.instance.setTransform(0,0,0.5,0.5);
 
@@ -512,7 +512,7 @@ p.nominalBounds = new cjs.Rectangle(-21.7,-60.2,43.5,120.5);
 	this.initialize(mode,startPosition,loop,{});
 
 	// 文件夹
-	this.instance = new lib.CachedTexturedBitmap_6();
+	this.instance = new lib.CachedTexturedBitmap_484();
 	this.instance.parent = this;
 	this.instance.setTransform(67.1,172.45,0.5,0.5);
 
@@ -532,7 +532,7 @@ p.nominalBounds = new cjs.Rectangle(-21.7,-60.2,43.5,120.5);
 	this.text.parent = this;
 	this.text.setTransform(529,28.5);
 
-	this.instance = new lib.CachedTexturedBitmap_7();
+	this.instance = new lib.CachedTexturedBitmap_485();
 	this.instance.parent = this;
 	this.instance.setTransform(363.9,113.95,0.5,0.5);
 
@@ -576,7 +576,7 @@ p._updateVisibility = _updateVisibility;
 	this.text_1.parent = this;
 	this.text_1.setTransform(92.8,2);
 
-	this.instance = new lib.CachedTexturedBitmap_13();
+	this.instance = new lib.CachedTexturedBitmap_491();
 	this.instance.parent = this;
 	this.instance.setTransform(-259.6,-211.25,0.5,0.5);
 
@@ -606,27 +606,27 @@ p._updateVisibility = _updateVisibility;
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_32();
+	this.instance = new lib.CachedTexturedBitmap_510();
 	this.instance.parent = this;
 	this.instance.setTransform(59.3,38.7,0.4952,0.4952);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_31();
+	this.instance_1 = new lib.CachedTexturedBitmap_509();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(73.45,148.4,0.4952,0.4952);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_30();
+	this.instance_2 = new lib.CachedTexturedBitmap_508();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(84.25,111.7,0.4952,0.4952);
 
-	this.instance_3 = new lib.CachedTexturedBitmap_29();
+	this.instance_3 = new lib.CachedTexturedBitmap_507();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(11.8,72.8,0.4952,0.4952);
 
-	this.instance_4 = new lib.CachedTexturedBitmap_28();
+	this.instance_4 = new lib.CachedTexturedBitmap_506();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(-6.7,-6.7,0.4952,0.4952);
 
-	this.instance_5 = new lib.CachedTexturedBitmap_27();
+	this.instance_5 = new lib.CachedTexturedBitmap_505();
 	this.instance_5.parent = this;
 	this.instance_5.setTransform(-4.95,271.7,0.4952,0.4952);
 
@@ -639,7 +639,7 @@ p._updateVisibility = _updateVisibility;
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_18();
+	this.instance = new lib.CachedTexturedBitmap_496();
 	this.instance.parent = this;
 	this.instance.setTransform(-1.45,-1.45,0.5726,0.5726);
 
@@ -652,7 +652,7 @@ p._updateVisibility = _updateVisibility;
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_20();
+	this.instance = new lib.CachedTexturedBitmap_498();
 	this.instance.parent = this;
 	this.instance.setTransform(-6.7,-6.75,0.5,0.5);
 
@@ -681,7 +681,7 @@ p._updateVisibility = _updateVisibility;
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_19();
+	this.instance = new lib.CachedTexturedBitmap_497();
 	this.instance.parent = this;
 	this.instance.setTransform(-6.7,-6.7,0.5,0.5);
 
@@ -698,7 +698,7 @@ p._updateVisibility = _updateVisibility;
 	this.instance.parent = this;
 	this.instance.setTransform(8.3,13.9,0.3598,0.3598);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_5();
+	this.instance_1 = new lib.CachedTexturedBitmap_483();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-1.45,-1.45,0.5362,0.5362);
 
@@ -711,7 +711,7 @@ p._updateVisibility = _updateVisibility;
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_3
-	this.instance = new lib.CachedTexturedBitmap_10();
+	this.instance = new lib.CachedTexturedBitmap_488();
 	this.instance.parent = this;
 	this.instance.setTransform(199.25,-111.8,0.5,0.5);
 
@@ -724,7 +724,7 @@ p._updateVisibility = _updateVisibility;
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_2
-	this.instance = new lib.CachedTexturedBitmap_11();
+	this.instance = new lib.CachedTexturedBitmap_489();
 	this.instance.parent = this;
 	this.instance.setTransform(118.45,87,0.5,0.5);
 
@@ -737,7 +737,7 @@ p._updateVisibility = _updateVisibility;
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_12();
+	this.instance = new lib.CachedTexturedBitmap_490();
 	this.instance.parent = this;
 	this.instance.setTransform(0,0,0.5,0.5);
 
@@ -754,7 +754,7 @@ p._updateVisibility = _updateVisibility;
 	this.instance.parent = this;
 	this.instance.setTransform(0,-83);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(3));
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(71));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -767,7 +767,7 @@ p._updateVisibility = _updateVisibility;
 	this.instance.parent = this;
 	this.instance.setTransform(13.65,13.25,0.2761,0.2761);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_4();
+	this.instance_1 = new lib.CachedTexturedBitmap_482();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-1.45,-1.45,0.4877,0.4877);
 
@@ -796,7 +796,7 @@ p._updateVisibility = _updateVisibility;
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_9();
+	this.instance = new lib.CachedTexturedBitmap_487();
 	this.instance.parent = this;
 	this.instance.setTransform(128.85,-3,0.5,0.5);
 
@@ -809,7 +809,7 @@ p._updateVisibility = _updateVisibility;
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_2();
+	this.instance = new lib.CachedTexturedBitmap_480();
 	this.instance.parent = this;
 	this.instance.setTransform(-0.7,-0.7,0.4218,0.4218);
 
@@ -822,7 +822,7 @@ p._updateVisibility = _updateVisibility;
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_1();
+	this.instance = new lib.CachedTexturedBitmap_479();
 	this.instance.parent = this;
 	this.instance.setTransform(-0.7,-0.7,0.3909,0.3909);
 
@@ -835,7 +835,7 @@ p._updateVisibility = _updateVisibility;
 	this.initialize(mode,startPosition,loop,{});
 
 	// 图层_1
-	this.instance = new lib.CachedTexturedBitmap_3();
+	this.instance = new lib.CachedTexturedBitmap_481();
 	this.instance.parent = this;
 	this.instance.setTransform(-45.55,-15.35,0.4767,0.4767);
 
@@ -1315,7 +1315,7 @@ p._updateVisibility = _updateVisibility;
 	this.instance.setTransform(127.3,-20.8,0.4766,0.4766,-11.2114,0,0,142.3,60.8);
 	this.instance.alpha = 0;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).to({regX:142.2,regY:60.9,scaleX:1,scaleY:1,rotation:0,x:127.2,y:-20.7,alpha:1},23).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance).to({regX:142.2,regY:60.9,scaleX:1,scaleY:1,rotation:0,x:127.2,y:-20.7,alpha:1},11).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -1329,7 +1329,7 @@ p._updateVisibility = _updateVisibility;
 	this.instance.setTransform(-26.3,34.85,0.7343,0.7343,8.9931,0,0,21.1,23.7);
 	this.instance.alpha = 0;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).to({regX:20.9,regY:23.9,scaleX:1.0252,scaleY:1.0252,rotation:-1.5258,x:-19.5,y:73.3,alpha:1},23).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance).to({regX:20.9,regY:23.9,scaleX:1.0252,scaleY:1.0252,rotation:-1.5258,x:-19.5,y:73.3,alpha:1},11).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -1608,7 +1608,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,750,1334);
 	this.instance.parent = this;
 	this.instance.setTransform(102.4,172.8,1,1,0,0,0,102.4,172.8);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_8();
+	this.instance_1 = new lib.CachedTexturedBitmap_486();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(3.2,-1.45,0.5362,0.5362);
 
@@ -1728,7 +1728,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,750,1334);
 	this.instance.parent = this;
 	this.instance.setTransform(339.65,626.15,1,0.8968,0,7.3605,0,227.6,373.1);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).to({regX:227.7,regY:374.4,scaleY:0.3405,skewX:85.8161,x:339.7},14,cjs.Ease.quadIn).to({regX:227.8,regY:374.8,scaleY:1.0489,skewX:180.0934,x:339.9,y:626.4},9,cjs.Ease.bounceOut).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance).to({regX:227.8,regY:374.8,scaleY:1.0489,skewX:180.0934,x:339.9,y:626.4},12,cjs.Ease.quadIn).wait(12));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -1762,7 +1762,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,750,1334);
 	this.buttonNext.parent = this;
 	this.buttonNext.setTransform(375.25,1167,1.1854,0.5664,0,0,0,50.6,43.7);
 
-	this.timeline.addTween(cjs.Tween.get(this.buttonNext).wait(3));
+	this.timeline.addTween(cjs.Tween.get(this.buttonNext).wait(71));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -1777,7 +1777,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,750,1334);
 	this.buttonLast.setTransform(374.95,29.4,1.279,0.5735,180,0,0,50.5,43.8);
 	this.buttonLast._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.buttonLast).wait(1).to({_off:false},0).wait(3));
+	this.timeline.addTween(cjs.Tween.get(this.buttonLast).wait(23).to({_off:false},0).wait(72));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -1791,7 +1791,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,750,1334);
 	this.instance.setTransform(397.7,122.7,0.744,0.744,-12.4489,0,0,102.3,172.8);
 	this.instance.alpha = 0;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).to({regY:172.9,scaleX:0.9325,scaleY:0.9325,rotation:8.0342,x:394.95,y:131.1,alpha:1},23).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance).to({regY:172.9,scaleX:0.9325,scaleY:0.9325,rotation:8.0342,x:394.95,y:131.1,alpha:1},11).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -1804,7 +1804,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,750,1334);
 	this.instance.parent = this;
 	this.instance.setTransform(104.2,894.4,1,1,0,0,0,104.2,244.2);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).to({y:-79.15,mode:"synched",startPosition:0},23,cjs.Ease.circOut).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance).to({y:-79.15},23,cjs.Ease.circOut).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -2023,7 +2023,7 @@ p.nominalBounds = new cjs.Rectangle(-405.6,-224.2,1305.4,1108.2);
 	this.initialize(mode,startPosition,loop,{});
 
 	// timeline functions:
-	this.frame_23 = function() {
+	this.frame_11 = function() {
 		this.___loopingOver___ = true;
 		/* 在此帧处停止
 		时间轴将在插入此代码的帧处停止/暂停。
@@ -2034,7 +2034,7 @@ p.nominalBounds = new cjs.Rectangle(-405.6,-224.2,1305.4,1108.2);
 	}
 
 	// actions tween:
-	this.timeline.addTween(cjs.Tween.get(this).wait(23).call(this.frame_23).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this).wait(11).call(this.frame_11).wait(1));
 
 	// MergedLayer_2_obj_
 	this.MergedLayer_2 = new lib.爱好_MergedLayer_2();
@@ -2048,7 +2048,7 @@ p.nominalBounds = new cjs.Rectangle(-405.6,-224.2,1305.4,1108.2);
 	this.MergedLayer_2.layerIndex = 0
 	this.MergedLayer_2.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.MergedLayer_2).wait(24));
+	this.timeline.addTween(cjs.Tween.get(this.MergedLayer_2).wait(12));
 
 	// 字_obj_
 	this.字 = new lib.爱好_字();
@@ -2062,7 +2062,7 @@ p.nominalBounds = new cjs.Rectangle(-405.6,-224.2,1305.4,1108.2);
 	this.字.layerIndex = 1
 	this.字.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.字).wait(24));
+	this.timeline.addTween(cjs.Tween.get(this.字).wait(12));
 
 	// MergedLayer_1_obj_
 	this.MergedLayer_1 = new lib.爱好_MergedLayer_1();
@@ -2076,7 +2076,7 @@ p.nominalBounds = new cjs.Rectangle(-405.6,-224.2,1305.4,1108.2);
 	this.MergedLayer_1.layerIndex = 2
 	this.MergedLayer_1.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.MergedLayer_1).wait(24));
+	this.timeline.addTween(cjs.Tween.get(this.MergedLayer_1).wait(12));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(-67,-81.6,580.5,387.1);
@@ -2091,7 +2091,7 @@ p.nominalBounds = new cjs.Rectangle(-67,-81.6,580.5,387.1);
 	this.instance.setTransform(109,710);
 	this.instance._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(22).to({_off:false},0).wait(2));
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(12).to({_off:false},0).wait(12));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -2183,30 +2183,31 @@ p.nominalBounds = new cjs.Rectangle(-67,-81.6,580.5,387.1);
 	this.timeline.addTween(cjs.Tween.get(this.标题).wait(24));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(42,26.5,773.5,1009.0999999999999);
+p.nominalBounds = new cjs.Rectangle(42,26.5,944.4,1009.0999999999999);
 
 
 (lib.场景_1_页面 = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// 页面
-	this.instance = new lib.开始();
+	this.startContent = new lib.开始();
+	this.startContent.name = "startContent";
+	this.startContent.parent = this;
+	this.startContent.setTransform(362.25,712.9,1,1,0,0,0,104.2,229.7);
+
+	this.instance = new lib.信息页内容();
 	this.instance.parent = this;
-	this.instance.setTransform(362.25,712.9,1,1,0,0,0,104.2,229.7);
+	this.instance.setTransform(380.6,431.15,1,1,0,0,0,210.7,181.7);
 
-	this.instance_1 = new lib.信息页内容();
+	this.instance_1 = new lib.展示页内容();
 	this.instance_1.parent = this;
-	this.instance_1.setTransform(380.6,431.15,1,1,0,0,0,210.7,181.7);
+	this.instance_1.setTransform(205.8,88.25,1,1,0,0,0,173.3,46.2);
 
-	this.instance_2 = new lib.展示页内容();
+	this.instance_2 = new lib.结束();
 	this.instance_2.parent = this;
-	this.instance_2.setTransform(205.8,88.25,1,1,0,0,0,173.3,46.2);
+	this.instance_2.setTransform(375,667,1,1,0,0,0,375,667);
 
-	this.instance_3 = new lib.结束();
-	this.instance_3.parent = this;
-	this.instance_3.setTransform(375,667,1,1,0,0,0,375,667);
-
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_1}]},1).to({state:[{t:this.instance_2}]},1).to({state:[{t:this.instance_3}]},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.startContent}]}).to({state:[{t:this.instance}]},23).to({state:[{t:this.instance_1}]},24).to({state:[{t:this.instance_2}]},24).wait(24));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -2247,13 +2248,7 @@ p.nominalBounds = new cjs.Rectangle(42,26.5,773.5,1009.0999999999999);
 	// timeline functions:
 	this.frame_0 = function() {
 		this.buttonNext = this.下一页.buttonNext;
-		/* 在此帧处停止
-		时间轴将在插入此代码的帧处停止/暂停。
-		也可用于停止/暂停影片剪辑的时间轴。
-		*/
-		
-		this.stop();
-		
+		this.startContent = this.页面.startContent;
 		if(!this.buttonNext.hasEventListener("click")){
 			this.buttonNext.addEventListener("click", nextPage.bind(this));
 		}
@@ -2261,8 +2256,8 @@ p.nominalBounds = new cjs.Rectangle(42,26.5,773.5,1009.0999999999999);
 		function nextPage()
 		{
 			当前页=this.currentFrame;
-			下一页=当前页+1;
-			this.gotoAndStop(下一页);
+			下一页=当前页+24;
+			this.gotoAndPlay(下一页);
 		}
 		
 		if(this.myMusic==null){
@@ -2270,15 +2265,11 @@ p.nominalBounds = new cjs.Rectangle(42,26.5,773.5,1009.0999999999999);
 			createjs.Sound.play("bgm");
 		}
 	}
-	this.frame_1 = function() {
-		this.buttonLast = this.上一页.buttonLast;
-		/* 在此帧处停止
-		时间轴将在插入此代码的帧处停止/暂停。
-		也可用于停止/暂停影片剪辑的时间轴。
-		*/
-		
-		this.stop();
-		
+	this.frame_22 = function() {
+		this.gotoAndPlay(0);
+	}
+	this.frame_23 = function() {
+		this.startContent = undefined;this.buttonLast = this.上一页.buttonLast;
 		if(!this.buttonLast.hasEventListener("click")){
 			this.buttonLast.addEventListener("click", lastPage.bind(this));
 		}
@@ -2286,30 +2277,23 @@ p.nominalBounds = new cjs.Rectangle(42,26.5,773.5,1009.0999999999999);
 		function lastPage()
 		{
 			当前页=this.currentFrame;
-			上一页=当前页-1;
-			this.gotoAndStop(上一页);
+			上一页=当前页-24;
+			this.gotoAndPlay(上一页);
 		}
 	}
-	this.frame_2 = function() {
-		/* 在此帧处停止
-		时间轴将在插入此代码的帧处停止/暂停。
-		也可用于停止/暂停影片剪辑的时间轴。
-		*/
-		
-		this.stop();
+	this.frame_46 = function() {
+		this.gotoAndPlay(23);
 	}
-	this.frame_3 = function() {
+	this.frame_70 = function() {
+		this.gotoAndPlay(47);
+	}
+	this.frame_94 = function() {
 		this.___loopingOver___ = true;
-		/* 在此帧处停止
-		时间轴将在插入此代码的帧处停止/暂停。
-		也可用于停止/暂停影片剪辑的时间轴。
-		*/
-		
-		this.stop();
+		this.gotoAndPlay(71);
 	}
 
 	// actions tween:
-	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1).call(this.frame_1).wait(1).call(this.frame_2).wait(1).call(this.frame_3).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(22).call(this.frame_22).wait(1).call(this.frame_23).wait(23).call(this.frame_46).wait(24).call(this.frame_70).wait(24).call(this.frame_94).wait(1));
 
 	// 上一页_obj_
 	this.上一页 = new lib.场景_1_上一页();
@@ -2322,21 +2306,7 @@ p.nominalBounds = new cjs.Rectangle(42,26.5,773.5,1009.0999999999999);
 	this.上一页.layerIndex = 0
 	this.上一页.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.上一页).wait(4));
-
-	// 页面_obj_
-	this.页面 = new lib.场景_1_页面();
-	this.页面.name = "页面";
-	this.页面.parent = this;
-	this.页面.setTransform(362.4,1041.3,1,1,0,0,0,362.4,1041.3);
-	this.页面.depth = 0;
-	this.页面.isAttachedToCamera = 0
-	this.页面.isAttachedToMask = 0
-	this.页面.layerDepth = 0
-	this.页面.layerIndex = 1
-	this.页面.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.页面).wait(4));
+	this.timeline.addTween(cjs.Tween.get(this.上一页).wait(95));
 
 	// 下一页_obj_
 	this.下一页 = new lib.场景_1_下一页();
@@ -2347,10 +2317,24 @@ p.nominalBounds = new cjs.Rectangle(42,26.5,773.5,1009.0999999999999);
 	this.下一页.isAttachedToCamera = 0
 	this.下一页.isAttachedToMask = 0
 	this.下一页.layerDepth = 0
-	this.下一页.layerIndex = 2
+	this.下一页.layerIndex = 1
 	this.下一页.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.下一页).to({_off:true},3).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.下一页).to({_off:true},71).wait(24));
+
+	// 页面_obj_
+	this.页面 = new lib.场景_1_页面();
+	this.页面.name = "页面";
+	this.页面.parent = this;
+	this.页面.setTransform(362.4,1041.3,1,1,0,0,0,362.4,1041.3);
+	this.页面.depth = 0;
+	this.页面.isAttachedToCamera = 0
+	this.页面.isAttachedToMask = 0
+	this.页面.layerDepth = 0
+	this.页面.layerIndex = 2
+	this.页面.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.页面).wait(95));
 
 	// 背景_obj_
 	this.背景 = new lib.场景_1_背景();
@@ -2364,7 +2348,7 @@ p.nominalBounds = new cjs.Rectangle(42,26.5,773.5,1009.0999999999999);
 	this.背景.layerIndex = 3
 	this.背景.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.背景).to({_off:true},3).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.背景).to({_off:true},71).wait(24));
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(139.2,520,847.2,1079.5);
@@ -2377,14 +2361,14 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/简历_atlas_.png?1593736328375", id:"简历_atlas_"},
-		{src:"images/简历_atlas_2.png?1593736328375", id:"简历_atlas_2"},
-		{src:"images/简历_atlas_3.png?1593736328375", id:"简历_atlas_3"},
-		{src:"images/简历_atlas_4.png?1593736328376", id:"简历_atlas_4"},
-		{src:"sounds/bgm.mp3?1593736328471", id:"bgm"},
-		{src:"https://code.jquery.com/jquery-2.2.4.min.js?1593736328471", id:"lib/jquery-2.2.4.min.js"},
-		{src:"components/sdk/anwidget.js?1593736328471", id:"sdk/anwidget.js"},
-		{src:"components/video/src/video.js?1593736328471", id:"an.Video"}
+		{src:"images/简历_atlas_.png", id:"简历_atlas_"},
+		{src:"images/简历_atlas_2.png", id:"简历_atlas_2"},
+		{src:"images/简历_atlas_3.png", id:"简历_atlas_3"},
+		{src:"images/简历_atlas_4.png", id:"简历_atlas_4"},
+		{src:"sounds/bgm.mp3", id:"bgm"},
+		{src:"https://code.jquery.com/jquery-2.2.4.min.js", id:"lib/jquery-2.2.4.min.js"},
+		{src:"components/sdk/anwidget.js", id:"sdk/anwidget.js"},
+		{src:"components/video/src/video.js", id:"an.Video"}
 	],
 	preloads: []
 };
